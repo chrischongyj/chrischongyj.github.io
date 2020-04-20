@@ -89,5 +89,11 @@
 
 /* Modified from: https://github.com/mukulkant/Star-rating-using-pure-css */
 
+.googlebutton {
+  position: relative;
+  left: 15%;
+  padding-top: 10px;
+}
+
 
 
